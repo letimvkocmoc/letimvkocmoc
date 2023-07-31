@@ -69,6 +69,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letimvkocmoc)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :writing_hand: Blog Posts:
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
