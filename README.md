@@ -18,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=letimvkocmoc&style=flat-square&color=blue" alt="Counter"/>
 </div>
 
-<h1>
-  Hello, World! 🌎
-</h1>
+<div id="hello" align="center">
+  <h1>
+    Hello, World! 🌎
+  </h1>
+</div>
