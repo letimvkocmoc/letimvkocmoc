@@ -9,8 +9,17 @@
   <a href="http://twitch.tv/letimvkocmoc">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
-  <a href="http://t.me/letimvkocmoc">
+  <a href="http://t.me/letimvkocmoc_tg">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+<div id="badges2" align="center">
+  <a href="http://discord.gg/tKGTNWyP">
+    <img src="https://img.shields.io/badge/Discord Channel-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Channel"/>
+  </a>
+  <a href="https://discord.com/users/694477512771764255/">
+    <img src="https://img.shields.io/badge/Discord Profile-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/>
   </a>
 </div>
 
@@ -23,3 +32,43 @@
     Hello, World! 🌎
   </h1>
 </div>
+
+### :man_technologist: About Me:
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Vladivostok.
+
+- 🌏 Wanna make this World better.
+
+- 🌱 Exploring Technical Content Writing.
+
+- ✈️ Love travelling.
+
+- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/korneevofficial)
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🔥 My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=letimvkocmoc&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letimvkocmoc)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
