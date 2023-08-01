@@ -74,6 +74,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wanna try out some stuff](https://stackoverflow.com/questions/76807719/wanna-try-out-some-stuff)
 - [ЯЛТА 2021, ТИЗЕР](https://www.youtube.com/watch?v=kXOiM5WZfcg)
 <!-- BLOG-POST-LIST:END -->
