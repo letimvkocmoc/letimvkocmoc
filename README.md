@@ -42,7 +42,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - ✈️ Love travelling.
 
-- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/korneevofficial)
+- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/-Instagram-FF69B4?style=flat&logo=Instagram&logoColor=white)](http://instagram.com/korneevofficial) [![Discord Profile](https://img.shields.io/badge/-Discord-6A5ACD?style=flat&logo=Discord&logoColor=white)]([http://discord.com/users/694477512771764255/)
 
 ---
 
