@@ -74,5 +74,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ЯЛТА 2021, ТИЗЕР](https://www.youtube.com/watch?v=kXOiM5WZfcg)
+
 <!-- BLOG-POST-LIST:END -->
