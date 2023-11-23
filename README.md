@@ -7,7 +7,7 @@ Excited to contribute and share knowledge with the community, I believe in the p
 
 📩 You can reach me here:
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/korneevofficial) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/letimvkocmoc)
+[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/korneevofficial) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/korneevofficial)
 
 ##
 <div>
