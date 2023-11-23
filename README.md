@@ -1,5 +1,7 @@
 ### About me  
-Passionate about creativity and driven by a love for continuous learning, I thrive on exploring new horizons in the ever-evolving tech landscape. In 2023, I successfully completed the Institute of Additional Education at [SkyPro](https://sky.pro/), specializing in Python development. Currently, I am focusing on developing web APIs and Telegram bots. I'm poised to expand my skill set into the fascinating world of frontend development in the near future.
+Passionate about creativity and driven by a love for continuous learning, I thrive on exploring new horizons in the ever-evolving tech landscape. In 2023, I successfully completed the Institute of Additional Education at [SkyPro](https://sky.pro/), specializing in Python development.
+
+Currently, I am focusing on developing web APIs and Telegram bots. I'm poised to expand my skill set into the fascinating world of frontend development in the near future.
 
 Excited to contribute and share knowledge with the community, I believe in the power of continuous growth and collaboration.
 
