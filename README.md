@@ -7,14 +7,14 @@
 ##
 <div>
   <h3>Experienced in...</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,docker,flask,github,mysql,postgresql,postman,photoshop" 
-       title="Python, Django, Docker, Flask, GitHub, MySQL, PostgreSQL, Postman, Photoshop."/>
+  <img src="https://skillicons.dev/icons?i=python,django,docker,flask,github,mysql,postgresql,postman,html,css,figma,photoshop" 
+       title="Python, Django, Docker, Flask, GitHub, MySQL, PostgreSQL, Postman, HTML, CSS, Figma, Photoshop."/>
 
 <br>
 <div>
   <h3>Looking forward to learn...</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,figma,react,ae,"
-       title="Java Script, HTML, CSS, Figma, React.js and After Effects."/>
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,ae"
+       title="Java Script, React.js, Flutter, After Effects."/>
 </div>
 
 ##  
