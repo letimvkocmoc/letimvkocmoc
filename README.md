@@ -13,8 +13,8 @@
 <br>
 <div>
   <h3>Looking forward to learn...</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,flutter,ae"
-       title="Java Script, React.js, Flutter, After Effects."/>
+  <img src="https://skillicons.dev/icons?i=fastapi,js,react,flutter,ae"
+       title="FastAPI, Java Script, React.js, Flutter, After Effects."/>
 </div>
 
 ##  
